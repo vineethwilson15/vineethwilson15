@@ -4,8 +4,8 @@
 
 ### 🚀 About Me
 
-- 🎓 **Software Engineer** @ Siemens Technology India  
-- 🎓 **M.Tech in Software Engineering** @ BITS Pilani (WILP)  
+- 💼 **Software Engineer** @ Siemens Technology India  
+- 🎓 **Currently pursuing M.Tech in Software Engineering** @ BITS Pilani (WILP) 
 - 💻 Working on **TIA Portal Cloud** – Industrial Automation Cloud Platform  
 - 🔧 Skilled in `.NET Core`, `Angular`, `AWS`, `Kubernetes`, `Playwright`, and `MySQL`  
 
