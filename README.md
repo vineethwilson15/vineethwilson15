@@ -1,8 +1,21 @@
-## <p align="center"> Hey, I'm Vineeth Wilson! <img src="https://www.emoji.com/wp-content/uploads/filebase/thumbnails/3d%20icons/emoji-3d%20icons-glossy-3d-icons-nerd-face-72dpi-forPersonalUseOnly.gif" width=50 height= 50> <img src="https://thumbs.gfycat.com/ChubbyRadiantBlackfish-max-1mb.gif" width=60 height= 60>
+<p align="center">
+  <h2>Hey, I'm Vineeth Wilson!</h2>
+  <img src="https://www.emoji.com/wp-content/uploads/filebase/thumbnails/3d%20icons/emoji-3d%20icons-glossy-3d-icons-nerd-face-72dpi-forPersonalUseOnly.gif" width="50" height="50" />
+  <img src="https://thumbs.gfycat.com/ChubbyRadiantBlackfish-max-1mb.gif" width="60" height="60" />
+</p>
 
-### About Me 🚀
-🎓 Pursuing Bachelors in Computer Science & Engineering </br>
-👨‍💻 Passion for innovation, networking and coding  </br>
+---
+
+### 🚀 About Me
+
+- 🎓 **Software Engineer** @ Siemens Technology India  
+- 🎓 **M.Tech in Software Engineering** @ BITS Pilani (WILP)  
+- 💻 Working on **TIA Portal Cloud** – Industrial Automation Cloud Platform  
+- 🔧 Skilled in `.NET Core`, `Angular`, `AWS`, `Kubernetes`, `Playwright`, and `MySQL`  
+
+---
+
+### 📊 GitHub Stats
 
 <a href="https://github.com/vineethwilson15/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vineethwilson15&show_icons=true&count_private=true&hide=stars&theme=radical" />
@@ -11,14 +24,23 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethwilson15&hide=jupyter+notebook&layout=compact&theme=radical" />
 </a>
 
-#### Connect with me 👇
-[<img src="https://cdn-icons-png.flaticon.com/128/1384/1384014.png" width=50 height= 50>](https://linkedin.com/in/vineeth-wilson)  &nbsp;[<img src="https://cdn-icons-png.flaticon.com/512/1384/1384017.png" width=50 height= 50>](https://twitter.com/vineethwilson15) &nbsp;[<img src="https://cdn-icons-png.flaticon.com/128/1384/1384015.png" width=50 height= 50>](https://instagram.com/vineethwilson_) &nbsp; [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" width=50 height= 50>](https://facebook.com/vineethwilson357) &nbsp;[<img src="https://cdn-icons-png.flaticon.com/128/95/95627.png" width=50 height= 50>](mailto:vineethwilson15@gmail.com?subject=Hi!%20I%20found%20you%20from%20Github)
+---
 
-###### <p align="center">![visitors](https://visitor-badge.laobi.icu/badge?page_id=vineethwilson15.vineethwilson15) 
- 
- 
-<!--- Hmm... Hmm..LOOK WHO IS HERE! LIKED MY README? Give it a star ⭐ Follow me on GitHub to stay connected with me! Thank you! 
- 
-###### <p align="center">Made with <img src="https://user-images.githubusercontent.com/54764778/120905741-d1e54600-c671-11eb-8fa1-ac61b1ddd86f.png" width=13> and <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png" width=18>
+### 📫 Connect with Me
+
+[<img src="https://cdn-icons-png.flaticon.com/128/1384/1384014.png" width=40>](https://linkedin.com/in/vineeth-wilson)  
+[<img src="https://cdn-icons-png.flaticon.com/512/1384/1384017.png" width=40>](https://twitter.com/vineethwilson15)  
+[<img src="https://cdn-icons-png.flaticon.com/128/1384/1384015.png" width=40>](https://instagram.com/vineethwilson_)  
+[<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" width=40>](https://facebook.com/vineethwilson357)  
+[<img src="https://cdn-icons-png.flaticon.com/128/95/95627.png" width=40>](mailto:vineethwilson15@gmail.com?subject=Hi!%20I%20found%20you%20from%20GitHub)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vineethwilson15.vineethwilson15" alt="visitors"/>
+</p>
+
+<!-- 
+⭐️ Liked my profile? Star this repo! Follow me on GitHub to stay updated on my projects.
+Made with ❤️ and Markdown.
 -->
-
